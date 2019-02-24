@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Wang Chi",
+      "authorEmail": "hiwangchi@gmail.com",
+      "authorUrl": "https://github.com/wangchi"
+    }
+  }
+}

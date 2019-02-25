@@ -1,6 +1,6 @@
 {
   "name": "generator-es-project",
-  "version": "0.0.3",
+  "version": "0.0.8",
   "description": "Generate a ES Next project with react, or vue, or no frameworks, select your like",
   "homepage": "https://github.com/wangchi/generator-es-project",
   "author": {
@@ -36,8 +36,9 @@
     "npm": ">= 4.0.0"
   },
   "dependencies": {
-    "yeoman-generator": "^2.0.1",
     "chalk": "^2.1.0",
+    "lodash": "^4.17.11",
+    "yeoman-generator": "^2.0.1",
     "yosay": "^2.0.1"
   },
   "jest": {
